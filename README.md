@@ -1,0 +1,2 @@
+# random_triangular_distribution_issue
+Unexpected behavior from python random triangular distribution
